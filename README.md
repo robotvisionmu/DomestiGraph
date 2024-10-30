@@ -80,7 +80,7 @@ __Multifunctional Rooms:__ Labels can be chained together with `/` for rooms tha
 Of course any set of labels can be used which best suit the application.
 
 ## Citation
-If you use this dataset in your research please cite
+If you use this dataset in your research please cite [this paper](https://digital-library.theiet.org/doi/10.1049/icp.2024.3327)
 ```
 @inproceedings{Gallagher2024,
     title = {A Dataset of Domestic Environment Room Adjacency Scene Graphs},
