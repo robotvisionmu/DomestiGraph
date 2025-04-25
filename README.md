@@ -82,10 +82,13 @@ Of course any set of labels can be used which best suit the application.
 ## Citation
 If you use this dataset in your research please cite [this paper](https://digital-library.theiet.org/doi/10.1049/icp.2024.3327)
 ```
-@inproceedings{Gallagher2024,
+@article{Gallagher2024,
+    author = {Frank Gallagher and Louis Gallagher and Marco Cognetti and John B. McDonald },
     title = {A Dataset of Domestic Environment Room Adjacency Scene Graphs},
-    author = {Frank Gallagher and Louis Gallagher and Marco Cognetti and John B. McDonald},
-    booktitle = {Irish Machine Vision and Image Processing Conference},
+    journal = {IET Conference Proceedings},
+    volume = {2024},
+    issue = {10},
+    pages = {335-338},
     year = {2024}
 }
 ```
